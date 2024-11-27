@@ -1,7 +1,7 @@
 This repository contains a modular and scalable machine learning pipeline designed for classification tasks. The code is highly configurable, allowing it to be used with various datasets by simply updating file paths and column configurations. It supports preprocessing, training, evaluation, and visualization, making it a robust solution for data analysis and predictive modeling.
 Key Features
 
- ** Dataset Imputation:**
+ Dataset Imputation:
         Supports mean imputation for numerical columns.
         Implements LOCF (Last Observation Carried Forward) for categorical data.
     **Data Preprocessing:**
